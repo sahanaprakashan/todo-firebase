@@ -1,0 +1,78 @@
+.dash-board{
+   
+    /* width: 55%; */
+
+}
+.main-head{
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size:x-large;
+    margin-bottom: 8%;
+
+}
+.header{
+    height: 20%;
+}
+.logo{
+    margin-top: 10%;
+}
+.main{
+    margin-left: 20%;
+   
+}
+.form-control{ 
+    width: 80%;
+    margin-left: 10%;
+}
+ .btn-custom{
+    width: 246px;
+    height: 44px; 
+    background: #597EF7;
+ }
+ p{
+     text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 150%;
+ }
+ .list-head{
+    font-style: normal;
+    font-weight: bold;
+    font-size: x-large;
+    line-height: 29px;
+    margin-bottom: 8%;
+    color: rgba(0, 0, 0, 0.85);
+    
+ }
+ 
+ .sub-title{
+     
+     font-size: medium;
+     font-weight: bold;
+ }
+ .description{
+     font-size: small;
+     font-weight: normal;
+     display: flex;
+     justify-content: space-between;
+     
+ }
+ .todo-icons{
+     margin: 0 10px;
+ }
+ .cards{
+     display: flex;
+     justify-content: space-between;
+     margin-bottom: 5%;
+     border-bottom: 1px solid rgb(190, 185, 185);
+     
+ }
+ .main-login{
+     margin-left: 33%;
+     margin-right: 33%;
+ }
+ .button{
+     background-color: #597EF7;
+ }
